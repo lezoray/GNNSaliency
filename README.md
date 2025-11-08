@@ -6,6 +6,8 @@ Official implementation of Saliency Prediction on 3D Meshes Using Residual FeaSt
 
 ## [Paper](https://) | [Project page](https://lezoray.users.greyc.fr/projects/VCIP2025/)
 
+The Schelling Dataset can be download [here](https://drive.google.com/file/d/1rg7rCYeUY3Vm80wrFe0OFOan9KXzzXiF/view?usp=sharing)
+
 ## Citation
 
 If you found SARMA helpful, please cite our paper:
