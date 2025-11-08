@@ -1,5 +1,8 @@
 #SARMA
+
 Official implementation of Saliency Prediction on 3D Meshes Using Residual FeaStConv-Based Graph Neural Networks
+
+[Olivier Lézoray](https://lezoray.users.greyc.fr/)
 
 ## [Paper](https://) | [Project page](https://lezoray.users.greyc.fr/projects/VCIP2025/)
 
