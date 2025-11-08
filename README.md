@@ -1,4 +1,4 @@
-#SARMA
+# SARMA
 
 Official implementation of Saliency Prediction on 3D Meshes Using Residual FeaStConv-Based Graph Neural Networks
 
