@@ -11,7 +11,7 @@ Official implementation of Saliency Prediction on 3D Meshes Using Residual FeaSt
 If you found SARMA helpful, please cite our paper:
 ```bibtex
 @inproceedings{cin-Lezoray-2025-2,
-	author = {O. L{\'e}zoray and Z. Ibork and A. Nouri and C. Charrier},
+	author = {O. Lézoray and Z. Ibork and A. Nouri and C. Charrier},
 	booktitle = {Visual Communications and Image Processing (VCIP)},
 	editor = {IEEE},
 	title = {Saliency Prediction on 3D Meshes Using Residual FeaStConv-Based Graph Neural Networks},
