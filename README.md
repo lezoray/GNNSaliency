@@ -19,7 +19,7 @@ If you want to generate the saliency maps for the dataset, use `inference.py`.
 If you want to generate the predicted interest points, use `roc_auc.py`
 Once done, you can :
 - Visualize a mesh, its ground truth and predicted saliencies with `plotMeshSaliency.py`
-- Visualize a mesh and the predicted points with `plotMeshPointsPS.py``
+- Visualize a mesh and the predicted points with `plotMeshPointsPS.py`
 - Save a mesh with its predicted overlaid with `saveMeshColored.py`
 
 ## Citation
