@@ -28,7 +28,7 @@ If you found SARMA helpful, please cite our paper:
 ```bibtex
 @inproceedings{cin-Lezoray-2025-2,
 	author = {O. Lézoray and Z. Ibork and A. Nouri and C. Charrier},
-	booktitle = {Visual Communications and Image Processing (VCIP)},
+	booktitle = {Visual Communications and Image Processing (VCIP - IEEE)},
 	editor = {IEEE},
 	title = {Saliency Prediction on 3D Meshes Using Residual FeaStConv-Based Graph Neural Networks},
 	volume = {to appear},
